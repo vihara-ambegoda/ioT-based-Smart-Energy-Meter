@@ -36,11 +36,24 @@ This project aimed to demonstrate how energy wastage can be reduced, bills optim
 - **ThingSpeak / MySQL + PhpMyAdmin / Google Cloud** – Simulated cloud platforms.  
 
 ### Components Used
-- **Arduino UNO** (originally planned ESP32, changed due to restrictions).  
+- **Arduino UNO**
 - **ACS712 Current Sensor**.  
 - **Voltage Divider Circuit** (alternative to unavailable ZMPT101B).  
 - **ENC28J60 Ethernet Controller / Arduino Ethernet Shield**.  
 - **LCD Display** (for real-time values).  
+
+### Connections
+
+| ENC28J60 Module Pin |    Arduino UNO Pin  |
+
+|         Vcc         |          3.3V        |
+|        RESET        |         RESET        |
+|         INT         |           D2         |
+|         GND         |          GND         |
+|         SCK         |          D13         |
+|        MISO         |          D12         |
+|        MOSI         |          D11         |
+|         CS          |          D10         |
 
 ---
 
