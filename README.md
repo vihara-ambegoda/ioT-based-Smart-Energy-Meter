@@ -44,8 +44,8 @@ This project aimed to demonstrate how energy wastage can be reduced, bills optim
 
 ### Connections
 
-| ENC28J60 Module Pin |    Arduino UNO Pin  |
-
+| ENC28J60 Module Pin |    Arduino UNO Pin   |
+|---------------------|----------------------|
 |         Vcc         |          3.3V        |
 |        RESET        |         RESET        |
 |         INT         |           D2         |
