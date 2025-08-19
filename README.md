@@ -69,18 +69,18 @@ This project aimed to demonstrate how energy wastage can be reduced, bills optim
 ## 📸 Images  
 
 ### System Block Diagram
-- ![System Block Diagram](block-diagram.jpg)  
+![System Block Diagram](block-diagram.jpg)  
 
 ### ioT Smart Meter Simulation
-- ![Proteus Circuit](simulation.png)  
-- ![LCD Display Output](images/lcd_output.png)  
-- ![ThingSpeak Dashboard](images/thingspeak_dashboard.png)  
+![Proteus Circuit](simulation.png)  
+![LCD Display Output](images/lcd_output.png)  
+![ThingSpeak Dashboard](images/thingspeak_dashboard.png)  
 
 ### Energy Forecasting  
-- ![Sample Dataset](images/dataset_sample.png)  
-- ![LSTM Model Architecture](images/lstm_architecture.png)  
-- ![Training Loss Graph](images/training_loss.png)  
-- ![Forecast Output](images/forecast_output.png)  
+![Sample Dataset](images/dataset_sample.png)  
+![LSTM Model Architecture](images/lstm_architecture.png)  
+![Training Loss Graph](images/training_loss.png)  
+![Forecast Output](images/forecast_output.png)  
 
 ---
 
