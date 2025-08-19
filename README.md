@@ -7,7 +7,9 @@ This repository contains the work for a University Module Team Project (Simulati
 ---
 
 ## 🎯 Objectives  
-The main objective of this project was to design and simulate a system that can monitor real-time energy consumption, calculate electricity usage, and introduce smart billing while also predicting future consumption patterns using machine learning. This project aimed to demonstrate how energy wastage can be reduced, bills optimized, and usage trends analyzed for better decision-making.  
+The main objective of this project was to design and simulate a system that can monitor real-time energy consumption, calculate electricity usage, and introduce smart billing while also predicting future consumption patterns using machine learning. 
+
+This project aimed to demonstrate how energy wastage can be reduced, bills optimized, and usage trends analyzed for better decision-making.  
 
 ---
 
@@ -51,7 +53,7 @@ The main objective of this project was to design and simulate a system that can 
 
 ---
 
-## 🖼 Images  
+## 📸 Images  
 
 ### ioT Smart Meter Simulation
 - ![System Block Diagram](images/block_diagram.png)  
