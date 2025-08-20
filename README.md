@@ -72,8 +72,11 @@ This project aimed to demonstrate how energy wastage can be reduced, bills optim
 ![System Block Diagram](block-diagram.jpg)  
 
 ### ioT Smart Meter Simulation
+**Proteus Simulation**  
 ![Proteus Circuit](simulation.png)  
+**LCD Display Output**  
 ![LCD Display Output](display.png)  
+**ThingSpeak Dashboard**  
 ![ThingSpeak Dashboard](dashboard.png)  
 
 ### Energy Forecasting  
