@@ -1,4 +1,4 @@
-# ioT-based-Smart-Energy-Meter
+# ioT-based Smart Energy Meter
 
 IoT-Based Smart Energy Meter with Energy Forecasting
 
@@ -23,31 +23,27 @@ This project aimed to demonstrate how energy wastage can be reduced, bills optim
 - Energy Forecasting
 - Smart billing
 
+### Components Used
+- **Arduino UNO**
+- **ACS712 Current Sensor**.  
+- **Voltage Divider Circuit** (alternative to unavailable ZMPT101B).  
+- **ENC28J60 Ethernet Controller / Arduino Ethernet Shield**.  
+- **LCD Display** (for real-time values).
+
 ### 🔸 **My Contributions**  
 - **Semester 1** – Developed the **simulation design** in Proteus (Arduino + sensors + IoT cloud flow).  Simulated ioT connectivity with Ethernet Shield / ENC28J60.  
 - **Semester 2** – Implemented **Energy Forecasting** using Deep Learning (LSTM in Python), including dataset preparation, model training, and future usage prediction.  
 
 ---
 
-## 🛠 Tools & Components  
+# A. Simulation
 
-### Tools  
+## 🛠 Tools
 - **Proteus 8 Professional** – Circuit design & simulation.  
 - **Arduino IDE** – Code development & .hex file generation.  
-- **Python (TensorFlow, Keras, Pandas, NumPy)** – Energy forecasting (LSTM).  
 - **MySQL + PhpMyAdmin** – Simulated cloud platforms.  
 
-### Components Used
-- **Arduino UNO**
-- **ACS712 Current Sensor**.  
-- **Voltage Divider Circuit** (alternative to unavailable ZMPT101B).  
-- **ENC28J60 Ethernet Controller / Arduino Ethernet Shield**.  
-- **LCD Display** (for real-time values).  
-
----
-
-## 🧮 Energy Calculation
-
+## Energy Calculation
 - P (Watts) = V x I
 - E (Jouls) = P x t 
 - E (Watts per hour) = (P x t) / 3600
@@ -55,8 +51,6 @@ This project aimed to demonstrate how energy wastage can be reduced, bills optim
 - Power Factor = cosθ
 - True Power (P) = V I cosθ
 > **Note:** The Arduino code calculating the Vrms, Irms, Power, and Energy calculations is attached.
-
----
 
 ## 📸 Images  
 
@@ -86,7 +80,17 @@ This project aimed to demonstrate how energy wastage can be reduced, bills optim
 **phpMyAdmin Database**  
 ![phpMyAdmin Database](dashboard.PNG)  
 
-### Energy Forecasting  
+
+---
+
+
+# B.Energy Forecasting  
+
+## 🛠 Tools
+- **Python (TensorFlow, Keras, Pandas, NumPy)** – Energy forecasting (LSTM).  
+- **MySQL + PhpMyAdmin** – Simulated cloud platforms.  
+
+## 📸 Images  
 ![Sample Dataset](images/dataset_sample.png)  
 ![LSTM Model Architecture](images/lstm_architecture.png)  
 ![Training Loss Graph](images/training_loss.png)  
