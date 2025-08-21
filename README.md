@@ -61,7 +61,7 @@ This project aimed to demonstrate how energy wastage can be reduced, bills optim
 ## 📸 Images  
 
 ### System Block Diagram
-![System Block Diagram](block-diagram.jpg)  
+![System Block Diagram](block-diagram.png)  
 
 #### Connections
 
@@ -81,8 +81,8 @@ This project aimed to demonstrate how energy wastage can be reduced, bills optim
 ![Proteus Circuit](simulation.png)  
 **Serial Connection Implemention**  
 ![Serial Connection](serial-connection.png)  
-**ThingSpeak Dashboard**  
-![ThingSpeak Dashboard](dashboard.png)  
+**phpMyAdmin Database**  
+![phpMyAdmin Database](dashboard.png)  
 
 ### Energy Forecasting  
 ![Sample Dataset](images/dataset_sample.png)  
