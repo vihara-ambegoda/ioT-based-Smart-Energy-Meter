@@ -24,8 +24,8 @@ This project aimed to demonstrate how energy wastage can be reduced, bills optim
 - Smart billing
 
 ### 🔸 **My Contributions**  
-- **Semester 1** - Developed the **simulation design** in Proteus (Arduino + sensors + IoT cloud flow).  Simulated ioT connectivity with Ethernet Shield / ENC28J60.  
-- **Semester 2** - Implemented **Energy Forecasting** using Deep Learning (LSTM in Python), including dataset preparation, model training, and future usage prediction.  
+- A. Developed the **simulation design** in Proteus (Arduino + sensors + IoT cloud flow).  Simulated ioT connectivity with Ethernet Shield / ENC28J60.  
+- B. Implemented **Energy Forecasting** using Deep Learning (LSTM in Python), including dataset preparation, model training, and future usage prediction.  
 
 ---
 
