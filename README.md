@@ -96,9 +96,11 @@ This helps predict future energy usage trends, enabling smarter decisions and op
 
 ## 🔹 Key Steps
 1. Data preprocessing & lag feature generation (20 lags).
-2. LSTM model definition & training (85% training, 15% testing).
-3. Forecasting next 15 hours of energy usage.
-4. Compared real vs predicted consumption.
+2. LSTM model definition
+3. Initialize the basic modelling parameters (lag, LSTM layer depth, epochs, batch size, test split for training)
+4. Training (85% training, 15% testing)
+5. Forecasting next 15 hours of energy usage.
+6. Compared real vs predicted consumption.
 
 ## 🛠 Tools
 - **Python (TensorFlow, Keras, Pandas, NumPy)** – Energy forecasting (LSTM).  
@@ -106,6 +108,9 @@ This helps predict future energy usage trends, enabling smarter decisions and op
 
 ## Deep Learning Algorithm Function for A Time Series Data
 ![Deep-Learning-Algorithm](Deep-Learning-Algorithm.png)  
+
+## Forecasting Formula
+![Forecasting-Formula](forecasting.png)  
 
 ## 📸 Images  
 
