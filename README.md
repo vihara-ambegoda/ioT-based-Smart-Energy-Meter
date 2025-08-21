@@ -13,6 +13,18 @@ This project aimed to demonstrate how energy wastage can be reduced, bills optim
 
 ---
 
+## 🧮 Energy Calculation
+
+- P (Watts) = V x I
+- E (Jouls) = P x t 
+- E (Watts per hour) = (P x t) / 3600
+- θ = 50Hz x 360 x ∆t
+- Power Factor = cosθ
+- True Power (P) = V I cosθ
+> **Note:** The Arduino code calculating the Vrms, Irms, Power, and Energy calculations is attached.
+
+---
+
 ## 👥 Contributions  
 
 ### 🔹 Team Contributions  
