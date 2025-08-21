@@ -63,7 +63,7 @@ This project aimed to demonstrate how energy wastage can be reduced, bills optim
 ### System Block Diagram
 ![System Block Diagram](block-diagram.jpg)  
 
-### Connections
+#### Connections
 
 | ENC28J60 Module Pin |    Arduino UNO Pin   |
 |---------------------|----------------------|
