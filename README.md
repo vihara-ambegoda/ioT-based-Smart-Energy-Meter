@@ -1,4 +1,4 @@
-<img width="218" height="53" alt="image" src="https://github.com/user-attachments/assets/ee6d31a2-2281-4578-999d-d040189cdc5f" /># ioT-based-Smart-Energy-Meter
+# ioT-based-Smart-Energy-Meter
 
 IoT-Based Smart Energy Meter with Energy Forecasting
 
