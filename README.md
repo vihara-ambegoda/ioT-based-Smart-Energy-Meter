@@ -1,8 +1,8 @@
-# ioT-based-Smart-Energy-Meter
+<img width="218" height="53" alt="image" src="https://github.com/user-attachments/assets/ee6d31a2-2281-4578-999d-d040189cdc5f" /># ioT-based-Smart-Energy-Meter
 
 IoT-Based Smart Energy Meter with Energy Forecasting
 
-This repository contains the work for a University Module Team Project (Simulation-Based Only).
+This repository contains the work for a University Module Team Project.
 
 ---
 
@@ -16,13 +16,15 @@ This project aimed to demonstrate how energy wastage can be reduced, bills optim
 ## 👥 Contributions  
 
 ### 🔹 Team Contributions  
-- Designed energy meter simulation in Proteus with Arduino UNO.  
-- Implemented energy calculations (Power, Energy, Power Factor).  
-- Simulated IoT connectivity with Ethernet Shield / ENC28J60.  
-- Explored cloud integration (ThingSpeak, MySQL/PhpMyAdmin, Google Cloud).  
+- Energy meter designing
+- Energy calculations (Power, Energy, Power Factor)
+- ioT connectivity
+- cloud integration
+- Energy Forecasting
+- Smart billing
 
 ### 🔸 **My Contributions**  
-- **Semester 1** – Developed the **simulation design** in Proteus (Arduino + sensors + IoT cloud flow).  
+- **Semester 1** – Developed the **simulation design** in Proteus (Arduino + sensors + IoT cloud flow).  Simulated ioT connectivity with Ethernet Shield / ENC28J60.  
 - **Semester 2** – Implemented **Energy Forecasting** using Deep Learning (LSTM in Python), including dataset preparation, model training, and future usage prediction.  
 
 ---
@@ -33,7 +35,7 @@ This project aimed to demonstrate how energy wastage can be reduced, bills optim
 - **Proteus 8 Professional** – Circuit design & simulation.  
 - **Arduino IDE** – Code development & .hex file generation.  
 - **Python (TensorFlow, Keras, Pandas, NumPy)** – Energy forecasting (LSTM).  
-- **ThingSpeak / MySQL + PhpMyAdmin / Google Cloud** – Simulated cloud platforms.  
+- **MySQL + PhpMyAdmin** – Simulated cloud platforms.  
 
 ### Components Used
 - **Arduino UNO**
@@ -57,15 +59,6 @@ This project aimed to demonstrate how energy wastage can be reduced, bills optim
 
 ---
 
-## 📈 Key Features  
-- Simulation-based IoT smart energy meter (no hardware build due to COVID).  
-- Real-time monitoring of Vrms, Irms, Power, Energy, and Power Factor.  
-- Smart billing calculation in simulation.  
-- Energy forecasting using LSTM (Deep Learning).  
-- Future-ready concept combining **IoT + AI** for energy efficiency.  
-
----
-
 ## 📸 Images  
 
 ### System Block Diagram
@@ -74,8 +67,8 @@ This project aimed to demonstrate how energy wastage can be reduced, bills optim
 ### ioT Smart Meter Simulation
 **Proteus Simulation**  
 ![Proteus Circuit](simulation.png)  
-**LCD Display Output**  
-![LCD Display Output](display.png)  
+**Serial Connection Implemention**  
+![Serial Connection](serial-connection.png)  
 **ThingSpeak Dashboard**  
 ![ThingSpeak Dashboard](dashboard.png)  
 
@@ -88,9 +81,8 @@ This project aimed to demonstrate how energy wastage can be reduced, bills optim
 ---
 
 ## ⚡ Challenges Faced  
-- COVID restrictions → simulation-only implementation.  
 - Limited sensor availability in Proteus → used alternatives.  
-- IoT simulation challenges with ESP8266 → replaced with Ethernet controllers.  
+- ioT simulation challenges with ESP8266 → replaced with Ethernet controllers.  
 - Debugging Arduino .hex file & baud rate errors.  
 - Long training times for ML models with large datasets.  
 
