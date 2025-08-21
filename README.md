@@ -108,10 +108,15 @@ This helps predict future energy usage trends, enabling smarter decisions and op
 ![Deep-Learning-Algorithm](Deep-Learning-Algorithm.png)  
 
 ## 📸 Images  
-![Sample Dataset](images/dataset_sample.png)  
-![LSTM Model Architecture](images/lstm_architecture.png)  
-![Training Loss Graph](images/training_loss.png)  
-![Forecast Output](images/forecast_output.png)  
+
+**Training Process for 10 Epochs**  
+![Training](training.PNG)  
+
+**Energy Consumption Prediction for a data set of a Refrigerator for 7 Days**  
+![Refrigerator](refrigerator.PNG)  
+
+**Energy Consumption Prediction for a data set of a Heater for 7 Days**  
+![Heater](heater.PNG)  
 
 ---
 
