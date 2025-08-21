@@ -105,7 +105,7 @@ This helps predict future energy usage trends, enabling smarter decisions and op
 - **MySQL + PhpMyAdmin** – Simulated cloud platforms.  
 
 ## Deep Learning Algorithm Function for A Time Series Data
-- Yₜ = f (Yₜ-1, Yₜ-2, …, Yₜ-p)
+![phpMyAdmin Database](Deep-Learning-Algorithm.PNG)  
 
 ## 📸 Images  
 ![Sample Dataset](images/dataset_sample.png)  
