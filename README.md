@@ -110,7 +110,7 @@ This helps predict future energy usage trends, enabling smarter decisions and op
 ## 📸 Images  
 
 **Training Process for 10 Epochs**  
-![Training](training.PNG)  
+![Training](training.png)  
 
 **Energy Consumption Prediction for a data set of a Refrigerator for 7 Days**  
 ![Refrigerator](refrigerator.PNG)  
