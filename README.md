@@ -73,13 +73,14 @@ This project aimed to demonstrate how energy wastage can be reduced, bills optim
 
 **Proteus Simulation**  
 ![Proteus Circuit](simulation.PNG)  
-
+> **Note:** Simulation files are attached.
+> 
 **Serial Connection Implemention**  
 ![Serial Connection](serial-connection.PNG)  
 
 **phpMyAdmin Database**  
 ![phpMyAdmin Database](dashboard.PNG)  
-
+> **Note:** The .php files are attached.
 
 ---
 
@@ -119,12 +120,14 @@ This helps predict future energy usage trends, enabling smarter decisions and op
 
 **Energy Consumption Prediction for a data set of a Refrigerator for 7 Days**  
 ![Refrigerator](refrigerator.PNG)  
+> **Note:** The python code used for forecasting is attached.
 
 **Energy Consumption Prediction for a data set of a Refrigerator for 30 Days**  
 ![Refrigerator_Month](month.png)  
 
 **Energy Consumption Prediction for a data set of a Heater for 7 Days**  
 ![Heater](heater.PNG)  
+> **Note:** The python code used for forecasting is attached.
 
 ---
 
