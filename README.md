@@ -64,7 +64,6 @@ This project aimed to demonstrate how energy wastage can be reduced, bills optim
 ![System Block Diagram](block-diagram.PNG)  
 
 #### Connections
-
 | ENC28J60 Module Pin |    Arduino UNO Pin   |
 |---------------------|----------------------|
 |         Vcc         |          3.3V        |
@@ -79,15 +78,12 @@ This project aimed to demonstrate how energy wastage can be reduced, bills optim
 ### ioT Smart Meter Simulation
 
 **Proteus Simulation**  
-
 ![Proteus Circuit](simulation.PNG)  
 
 **Serial Connection Implemention**  
-
 ![Serial Connection](serial-connection.PNG)  
 
 **phpMyAdmin Database**  
-
 ![phpMyAdmin Database](dashboard.PNG)  
 
 ### Energy Forecasting  
