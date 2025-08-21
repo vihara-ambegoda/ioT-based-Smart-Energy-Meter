@@ -56,7 +56,7 @@ This project aimed to demonstrate how energy wastage can be reduced, bills optim
 
 ### System Block Diagram
 
-![System Block Diagram](block-diagram.PNG)  
+![System Block Diagram](images/block-diagram.PNG)  
 
 #### Connections
 | ENC28J60 Module Pin |    Arduino UNO Pin   |
@@ -74,18 +74,18 @@ This project aimed to demonstrate how energy wastage can be reduced, bills optim
 
 **Proteus Simulation**  
 
-![Proteus Circuit](simulation.PNG)  
+![Proteus Circuit](images/simulation.PNG)  
 > **Note:** Simulation files are attached.
 
 
 **Serial Connection Implemention**  
 
-![Serial Connection](serial-connection.PNG)  
+![Serial Connection](images/serial-connection.PNG)  
 
 
 **phpMyAdmin Database**  
 
-![phpMyAdmin Database](dashboard.PNG)  
+![phpMyAdmin Database](images/dashboard.PNG)  
 > **Note:** The .php files are attached.
 
 ---
@@ -117,33 +117,33 @@ This helps predict future energy usage trends, enabling smarter decisions and op
 
 **Algorithm Function for A Time Series Data**
 
-![Deep-Learning-Algorithm](Deep-Learning-Algorithm.png)  
+![Deep-Learning-Algorithm](images/Deep-Learning-Algorithm.png)  
 
 **Forecasting Formula**
 
-![Forecasting-Formula](forecasting.png)  
+![Forecasting-Formula](images/forecasting.png)  
 
 ## 📸 Images  
 
 **Training Process for 10 Epochs**  
 
-![Training](training.png)  
+![Training](images/training.png)  
 
 
 **Energy Consumption Prediction for a data set of a Refrigerator for 7 Days**
 
-![Refrigerator](refrigerator.PNG)  
+![Refrigerator](images/refrigerator.PNG)  
 > **Note:** The python code used for forecasting is attached.
 
 
 **Energy Consumption Prediction for a data set of a Refrigerator for 30 Days**  
 
-![Refrigerator_Month](month.png)  
+![Refrigerator_Month](images/month.png)  
 
 
 **Energy Consumption Prediction for a data set of a Heater for 7 Days**  
 
-![Heater](heater.PNG)  
+![Heater](images/heater.PNG)  
 > **Note:** The python code used for forecasting is attached.
 
 ---
@@ -174,4 +174,6 @@ If you have feedback or suggestions, feel free to [open an issue](https://github
 
 ## 🎥 Project Demo
 
-▶️ [Click here to watch the simulation demo](./path-to-your-video-file.mp4)
+▶️ [Click here to watch the Simulation Demo](./path-to-your-video-file.mp4)
+
+▶️ [Click here to watch the Forecasting Demo](./path-to-your-video-file.mp4)
