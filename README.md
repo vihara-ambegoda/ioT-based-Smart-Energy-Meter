@@ -104,6 +104,9 @@ This helps predict future energy usage trends, enabling smarter decisions and op
 - **Python (TensorFlow, Keras, Pandas, NumPy)** – Energy forecasting (LSTM).  
 - **MySQL + PhpMyAdmin** – Simulated cloud platforms.  
 
+## Deep Learning Algorithm Function for A Time Series Data
+- Yₜ = f (Yt-1, Yt-2, …, Yt-p)
+
 ## 📸 Images  
 ![Sample Dataset](images/dataset_sample.png)  
 ![LSTM Model Architecture](images/lstm_architecture.png)  
