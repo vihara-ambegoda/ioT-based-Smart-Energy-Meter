@@ -61,7 +61,7 @@ This project aimed to demonstrate how energy wastage can be reduced, bills optim
 ## 📸 Images  
 
 ### System Block Diagram
-![System Block Diagram](block-diagram.png)  
+![System Block Diagram](block-diagram.PNG)  
 
 #### Connections
 
