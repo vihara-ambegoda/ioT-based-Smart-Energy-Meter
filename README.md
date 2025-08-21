@@ -105,7 +105,7 @@ This helps predict future energy usage trends, enabling smarter decisions and op
 - **MySQL + PhpMyAdmin** – Simulated cloud platforms.  
 
 ## Deep Learning Algorithm Function for A Time Series Data
-- Yₜ = f (Yt-1, Yt-2, …, Yt-p)
+- Yₜ = f (Yₜ-1, Yₜ-2, …, Yₜ-p)
 
 ## 📸 Images  
 ![Sample Dataset](images/dataset_sample.png)  
