@@ -23,13 +23,6 @@ This project aimed to demonstrate how energy wastage can be reduced, bills optim
 - Energy Forecasting
 - Smart billing
 
-### Components Used
-- **Arduino UNO**
-- **ACS712 Current Sensor**.  
-- **Voltage Divider Circuit** (alternative to unavailable ZMPT101B).  
-- **ENC28J60 Ethernet Controller / Arduino Ethernet Shield**.  
-- **LCD Display** (for real-time values).
-
 ### 🔸 **My Contributions**  
 - **Semester 1** – Developed the **simulation design** in Proteus (Arduino + sensors + IoT cloud flow).  Simulated ioT connectivity with Ethernet Shield / ENC28J60.  
 - **Semester 2** – Implemented **Energy Forecasting** using Deep Learning (LSTM in Python), including dataset preparation, model training, and future usage prediction.  
@@ -43,6 +36,13 @@ This project aimed to demonstrate how energy wastage can be reduced, bills optim
 - **Arduino IDE** – Code development & .hex file generation.  
 - **MySQL + PhpMyAdmin** – Simulated cloud platforms.  
 
+## Components Used
+- **Arduino UNO**
+- **ACS712 Current Sensor**.  
+- **Voltage Divider Circuit** (alternative to unavailable ZMPT101B).  
+- **ENC28J60 Ethernet Controller / Arduino Ethernet Shield**.  
+- **LCD Display** (for real-time values).
+- 
 ## Energy Calculation
 - P (Watts) = V x I
 - E (Jouls) = P x t 
@@ -85,6 +85,20 @@ This project aimed to demonstrate how energy wastage can be reduced, bills optim
 
 
 # B.Energy Forecasting  
+
+Implemented **Energy Consumption Forecasting** using Deep Learning (LSTM).  
+This helps predict future energy usage trends, enabling smarter decisions and optimized billing.
+
+## 🔹 Approach
+- Used **LSTM (Long Short-Term Memory)** model in Python (TensorFlow/Keras).
+- Input: historical energy data (1-sec intervals).
+- Output: short-term & long-term energy usage forecasts.
+
+## 🔹 Key Steps
+1. Data preprocessing & lag feature generation (20 lags).
+2. LSTM model definition & training (85% training, 15% testing).
+3. Forecasting next 15 hours of energy usage.
+4. Compared real vs predicted consumption.
 
 ## 🛠 Tools
 - **Python (TensorFlow, Keras, Pandas, NumPy)** – Energy forecasting (LSTM).  
