@@ -78,11 +78,11 @@ This project aimed to demonstrate how energy wastage can be reduced, bills optim
 
 ### ioT Smart Meter Simulation
 **Proteus Simulation**  
-![Proteus Circuit](simulation.png)  
+![Proteus Circuit](simulation.PNG)  
 **Serial Connection Implemention**  
-![Serial Connection](serial-connection.png)  
+![Serial Connection](serial-connection.PNG)  
 **phpMyAdmin Database**  
-![phpMyAdmin Database](dashboard.png)  
+![phpMyAdmin Database](dashboard.PNG)  
 
 ### Energy Forecasting  
 ![Sample Dataset](images/dataset_sample.png)  
