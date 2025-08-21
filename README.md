@@ -36,14 +36,14 @@ This project aimed to demonstrate how energy wastage can be reduced, bills optim
 - **Arduino IDE** – Code development & .hex file generation.  
 - **MySQL + PhpMyAdmin** – Simulated cloud platforms.  
 
-## Components Used
+## 💻 Components Used
 - **Arduino UNO**
 - **ACS712 Current Sensor**.  
 - **Voltage Divider Circuit** (alternative to unavailable ZMPT101B).  
 - **ENC28J60 Ethernet Controller / Arduino Ethernet Shield**.  
 - **LCD Display** (for real-time values).
 - 
-## Energy Calculation
+## 🧮 Energy Calculation
 - P (Watts) = V x I
 - E (Jouls) = P x t 
 - E (Watts per hour) = (P x t) / 3600
@@ -90,12 +90,12 @@ This project aimed to demonstrate how energy wastage can be reduced, bills optim
 Implemented **Energy Consumption Forecasting** using Deep Learning (LSTM).  
 This helps predict future energy usage trends, enabling smarter decisions and optimized billing.
 
-## 🔹 Approach
+## 👇 Approach
 - Used **LSTM (Long Short-Term Memory)** model in Python (TensorFlow/Keras).
 - Input: historical energy data (1-sec intervals).
 - Output: short-term & long-term energy usage forecasts.
 
-## 🔹 Key Steps
+## 👣 Key Steps
 1. Data preprocessing & lag feature generation (20 lags).
 2. LSTM model definition
 3. Initialize the basic modelling parameters (lag, LSTM layer depth, epochs, batch size, test split for training)
@@ -107,12 +107,14 @@ This helps predict future energy usage trends, enabling smarter decisions and op
 - **Python (TensorFlow, Keras, Pandas, NumPy)** – Energy forecasting (LSTM).  
 - **MySQL + PhpMyAdmin** – Simulated cloud platforms.  
 
-## Deep Learning
+## 📚 Deep Learning
 
 **Algorithm Function for A Time Series Data**
+
 ![Deep-Learning-Algorithm](Deep-Learning-Algorithm.png)  
 
 **Forecasting Formula**
+
 ![Forecasting-Formula](forecasting.png)  
 
 ## 📸 Images  
