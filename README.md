@@ -2,12 +2,6 @@
 
 IoT-Based Smart Energy Meter with Energy Forecasting
 
-
-
-
-
-
-
 This repository contains the work for a University Module Team Project.
 
 ---
@@ -177,3 +171,7 @@ This project is shared for educational purposes. Please give credit if you use i
 If you have feedback or suggestions, feel free to [open an issue](https://github.com).
 
 ---
+
+## 🎥 Project Demo
+
+▶️ [Click here to watch the simulation demo](./path-to-your-video-file.mp4)
